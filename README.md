@@ -1,2 +1,2 @@
-# mrinspector.github.io
+# https://kevinbenjee.github.io/mrinspector/
 Personal Blog
